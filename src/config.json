@@ -52,7 +52,7 @@
   "RUN_LINTER": 1,
   "LINTER_INCLUDE_PDK_MODELS": 1,
 
-  "CLOCK_PORT": "ASIC_clk",
+  "CLOCK_PORT": "clk",
 
   "//28": "----------------------------------------------------------------",
   "//29": "DIE AREA",
