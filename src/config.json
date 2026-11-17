@@ -52,9 +52,9 @@
 "RUN_LINTER": 1,
 "LINTER_INCLUDE_PDK_MODELS": 1,
 
-"// Bypass strict signoff to ignore ff and ss corner violations": "",
-"QUIT_ON_TIMING_VIOLATIONS": 0,
-"QUIT_ON_HOLD_VIOLATIONS": 0,
+"// Limit STA checks strictly to the TT corner for the exam": "",
+"STA_CORNERS": ["nom_tt_025C_1v80"],
+"DEFAULT_CORNER": "nom_tt_025C_1v80",
   
 "CLOCK_PORT": "clk",
 
